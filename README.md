@@ -1,2 +1,2 @@
-# AI-Lab-Experiments-
+# AI-Lab-Experiments
 Experiments 
